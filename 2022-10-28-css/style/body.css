@@ -1,0 +1,7 @@
+body {
+  background-color: #445;
+  display: grid;
+  grid-template-rows: 1fr 100px 3px 100px 1fr;
+  grid-template-columns: 1fr 100px 3px 100px 1fr;
+  overflow: hidden;
+}
